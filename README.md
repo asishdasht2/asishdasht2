@@ -1,27 +1,31 @@
-# Asish Dash
+<h1 align="center">Asish Dash</h1>
 
-**AI Project Management | AI Architecture**
+<p align="center"><strong>AI Project Management&nbsp; | &nbsp;AI Architecture</strong></p>
 
-Focused on AI and machine learning, with a technology toolkit spanning application development, data, and cloud infrastructure.
+<p align="center">Focused on AI and machine learning, with a toolkit spanning application development, data, and cloud infrastructure.</p>
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/theasishdash">LinkedIn</a> &nbsp;·&nbsp;
+	<a href="https://github.com/asishdash">GitHub</a> &nbsp;·&nbsp;
+	<a href="mailto:asish.dash@outlook.in">Email</a>
+</p>
+
+---
 
 ## Technology
 
 ### AI & Machine Learning
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-4B5563?style=flat) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4B5563?style=flat)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-EFF2F5?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-EAF2FB?style=flat-square)
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-EAF2FB?logo=python&logoColor=3776AB&style=flat-square) ![Java](https://img.shields.io/badge/Java-FFF1E5?logo=openjdk&logoColor=ED8B00&style=flat-square)
 
 ### Backend & Data
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-E7F5F2?logo=fastapi&logoColor=009688&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EBF0FA?logo=postgresql&logoColor=4169E1&style=flat-square)
 
 ### Cloud & Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat)
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/theasishdash) · [GitHub](https://github.com/asishdash) · [Email](mailto:asish.dash@outlook.in)
+![Docker](https://img.shields.io/badge/Docker-EAF4FC?logo=docker&logoColor=2496ED&style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-EDF1FC?logo=kubernetes&logoColor=326CE5&style=flat-square) ![AWS](https://img.shields.io/badge/AWS-FFF4E5?logo=amazonwebservices&logoColor=232F3E&style=flat-square) ![Azure](https://img.shields.io/badge/Azure-EAF3FC?logo=microsoftazure&logoColor=0078D4&style=flat-square)
