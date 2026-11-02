@@ -1,6 +1,6 @@
 <h1 align="center">Asish Dash</h1>
 
-<p align="center"><strong>AI Project Management&nbsp; | &nbsp;AI Architecture</strong></p>
+<p align="center"><strong>AI Project Manager&nbsp; | &nbsp;AI Architect</strong></p>
 
 <p align="center">Focused on AI and machine learning, with a toolkit spanning application development, data, and cloud infrastructure.</p>
 
@@ -9,6 +9,18 @@
 	<a href="https://github.com/asishdash">GitHub</a> &nbsp;·&nbsp;
 	<a href="mailto:asish.dash@outlook.in">Email</a>
 </p>
+
+---
+
+## Capabilities
+
+| Area | Focus |
+| --- | --- |
+| **AI Project Management** | Planning and coordinating AI initiatives from concept through delivery |
+| **AI Architecture** | Connecting AI/ML systems with APIs, data platforms, and cloud infrastructure |
+| **AI & Machine Learning** | Applying AI and ML capabilities in software solutions |
+| **Backend & Data** | Developing services with Python, Java, FastAPI, and PostgreSQL |
+| **Cloud & Infrastructure** | Working with Docker, Kubernetes, AWS, and Azure |
 
 ---
 
