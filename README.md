@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="https://github.com/asishdash.png?size=240" width="144" height="144" alt="Asish Dash avatar" />
+</p>
+
 <h1 align="center">Asish Dash</h1>
 
 <p align="center"><strong>AI Project Manager&nbsp; | &nbsp;AI Architect</strong></p>
